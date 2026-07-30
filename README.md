@@ -54,3 +54,8 @@ A Google Sheets + Apps Script framework for structured AI/LLM response evaluatio
 - 💼 LinkedIn: https://www.linkedin.com/in/ritishpavankumar
 - 📧 Email: ritishpavankumar@gmail.com
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritishpavankumar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritishpavankumar&layout=compact)
