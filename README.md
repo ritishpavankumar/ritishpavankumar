@@ -10,3 +10,5 @@ Currently focused on:
 - Google Apps Script Automation
 - Workflow & Process Optimization
 - Dashboard Development
+
+### [AI Response Evaluation Framework](https://github.com/ritishpavankumar/ai-response-evaluation-framework)
