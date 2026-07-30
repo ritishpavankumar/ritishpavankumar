@@ -49,3 +49,8 @@ A Google Sheets + Apps Script framework for structured AI/LLM response evaluatio
 - Building practical AI evaluation and quality assurance projects.
 - Learning more about LLM evaluation workflows, benchmarking, and automation.
 - Looking for full-time opportunities in AI Evaluation, AI Quality, AI Operations, or related roles.
+- ## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ritishpavankumar
+- 📧 Email: ritishpavankumar@gmail.com
+
