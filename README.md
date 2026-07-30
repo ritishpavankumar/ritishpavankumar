@@ -25,3 +25,22 @@ A Google Sheets + Apps Script framework for structured AI/LLM response evaluatio
 - Google Apps Script automation
 - Synthetic benchmark dataset for demonstration
 - Versioned GitHub release (v1.0.0)
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- SQL
+
+**Tools & Platforms**
+- Google Apps Script
+- Google Sheets
+- Git
+- GitHub
+
+**Areas of Interest**
+- AI Evaluation
+- AI Quality
+- LLM Benchmarking
+- Workflow Automation
+- Dashboard Development
