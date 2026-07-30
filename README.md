@@ -11,4 +11,17 @@ Currently focused on:
 - Workflow & Process Optimization
 - Dashboard Development
 
+## 🚀 Featured Project
+
 ### [AI Response Evaluation Framework](https://github.com/ritishpavankumar/ai-response-evaluation-framework)
+
+A Google Sheets + Apps Script framework for structured AI/LLM response evaluation.
+
+**Highlights**
+- Structured AI response evaluation workflow
+- Prompt Library & Run management
+- Automated scoring and reporting
+- Interactive dashboard & leaderboard
+- Google Apps Script automation
+- Synthetic benchmark dataset for demonstration
+- Versioned GitHub release (v1.0.0)
